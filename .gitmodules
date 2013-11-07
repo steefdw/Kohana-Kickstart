@@ -27,7 +27,7 @@
 	url = http://github.com/kohana/orm.git
 [submodule "modules/pagination"]
 	path = modules/pagination
-	url = https://github.com/kloopko/kohana-pagination.git
+	url = https://github.com/beatniak/kohana-pagination.git
 [submodule "modules/unittest"]
 	path = modules/unittest
 	url = http://github.com/kohana/unittest.git

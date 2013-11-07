@@ -150,8 +150,8 @@ Kohana::modules(array(
 	'auth'       => MODPATH.'auth',       // Basic authentication
 	'database'   => MODPATH.'database',   // Database access
 	'orm'        => MODPATH.'orm',        // Object Relationship Mapping
-  'email'      => MODPATH.'email',      // Email module      : https://github.com/Luwe/Kohana-Email, ko3.3: https://github.com/dfox288/kohana-email
-  'pagination' => MODPATH.'pagination', // Pagination module : https://github.com/kloopko/kohana-pagination  
+	'email'      => MODPATH.'email',      // Email module      : https://github.com/Luwe/Kohana-Email, ko3.3: https://github.com/dfox288/kohana-email
+	'pagination' => MODPATH.'pagination', // Pagination module : https://github.com/kloopko/kohana-pagination
 	));
 
 /**
